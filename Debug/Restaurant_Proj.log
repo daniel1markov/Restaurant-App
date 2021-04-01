@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Restaurant_Proj.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  File.cpp
+C:\Users\daniel\source\repos\Restaurant_Proj\Restaurant_Proj\File.cpp(10,20): warning C4018: '<': signed/unsigned mismatch
+  Restaurant_Proj.cpp
+  Restaurant_ProjDlg.cpp
+C:\Users\daniel\source\repos\Restaurant_Proj\Restaurant_Proj\Restaurant_ProjDlg.cpp(201,21): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Restaurant_Proj.vcxproj -> C:\Users\daniel\source\repos\Restaurant_Proj\Debug\Adelle_Rest.exe
